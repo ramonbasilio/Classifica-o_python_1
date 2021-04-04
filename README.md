@@ -10,7 +10,9 @@ O algoritmo a ser utilizado nesse case é de classificação, pois é necessári
 As ferramentas utilizadas nesse notebook são as relacionada abaixo:
 
 Linguagem: python
+
 Bibliotecas: pandas, sklearn
+
 Algoritmos de classificação: MultinomialNB (Naive Bayes e AdaBoost)
 
 Os dados foram extraídos do site da alura.com.br
