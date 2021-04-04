@@ -15,4 +15,4 @@ Bibliotecas: pandas, sklearn, collections
 
 Algoritmos de classificação: MultinomialNB (Naive Bayes) e AdaBoost
 
-Os dados foram extraídos do site da alura.com.br
+Os dados foram extraídos do site www.alura.com.br
