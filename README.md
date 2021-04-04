@@ -1,2 +1,2 @@
 # Classificacao_python_1
-Olá! Nesse repertório demonstrará o principio básico de funcionamento de classificação e um exemplo de classificação de acessos de um site.
+Olá! Nesse repertório demonstrará o principio básico de funcionamento de classificação utilizando a biblioteca Sklearn e suas ferramentas com um exemplo de classificação de acessos de um site.
