@@ -7,4 +7,10 @@ O problema em questão a ser tratado é analisar os dados referentes a usuários
 
 O algoritmo a ser utilizado nesse case é de classificação, pois é necessário diferenciar o usuário entre duas classes distintas, aqueles que COMPRAM e aqueles que NÃO COMPRAM.
 
+As ferramentas utilizadas nesse notebook são as relacionada abaixo:
 
+Linguagem: python
+Bibliotecas: pandas, sklearn
+Algoritmos de classificação: MultinomialNB (Naive Bayes e AdaBoost)
+
+Os dados foram extraídos do site da alura.com.br
